@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Knowledge Management
+title: Personal knowledge management
 ---
 
 {{ page.title }}
