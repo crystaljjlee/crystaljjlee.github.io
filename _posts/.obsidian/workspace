@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "d0f44d2370b0d8bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef65596976022df",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2016-11-10-snyk.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef5187ae4f776ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f1a4e7fb7247ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564178a85f927596",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34ed28b4b3f4aa5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f8a4bd936ee6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "31e067ff415201fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac563e9466867e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2016-11-10-snyk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2016-11-10-snyk.md",
+    "2020-12-29-personal-knowledge-management.md",
+    "2008-10-18-how-i-turned-down-300k.md",
+    "Untitled.md",
+    "2014-04-21-farewell-github-hello-immersive-computing.md",
+    "2011-05-03-rejected-bio-from-the-setup.md",
+    "2010-08-23-readme-driven-development.md",
+    "2009-05-19-the-git-parable.md",
+    "2008-11-17-blogging-like-a-hacker.md",
+    "2008-11-03-how-to-meet-your-next-cofounder.md"
+  ]
+}
