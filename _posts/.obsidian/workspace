@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-12-29-personal-knowledge-management.md",
+            "file": "2019-03-17-organizing-PDFs.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-12-29-personal-knowledge-management.md",
+                "file": "2019-03-17-organizing-PDFs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2020-12-29-personal-knowledge-management.md",
+    "2019-03-17-organizing-PDFs.md",
+    "2019-04-10-MIT-DH-spring.md",
+    "2019-04-15-thesis-copyright.md",
+    "2019-04-15-zotero-alfred.md",
     "2019-04-27-public-speaking-notes.md",
+    "2020-12-29-personal-knowledge-management.md",
     "Untitled.md",
     "2016-11-10-snyk.md",
     "2008-10-18-how-i-turned-down-300k.md",
-    "2014-04-21-farewell-github-hello-immersive-computing.md",
-    "2011-05-03-rejected-bio-from-the-setup.md",
-    "2010-08-23-readme-driven-development.md",
-    "2009-05-19-the-git-parable.md",
-    "2008-11-17-blogging-like-a-hacker.md"
+    "2014-04-21-farewell-github-hello-immersive-computing.md"
   ]
 }

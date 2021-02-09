@@ -6,7 +6,7 @@ title: Personal knowledge management
 {{ page.title }}
 ================
 
-<p class="meta">29 December 2020 / Los Angeles</p>
+<p class="meta">29 December 2020</p>
 
 If we've talked about research methods for any extended amount of time, you've likely heard me talk at length about how to systematize the work that we do as academics: I usually evangelize about using [Zotero and Alfred](https://crystaljjlee.blogspot.com/search/label/research%20workflow) to curate one's reading. Or I might ramble on about my obsession with [DEVONThink](https://www.devontechnologies.com/apps/devonthink), which is an incredibly powerful tool where I probably only use the tiniest fraction of its full horsepower (which I was introduced to by the great [Clare Kim](https://iph.wustl.edu/people/clare-kim)). That's certainly another (long overdue) blog post that I will write at some point, but I wanted to talk more today about my latest obsession: [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). 
 
