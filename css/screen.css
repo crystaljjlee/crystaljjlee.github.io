@@ -67,7 +67,7 @@ ul.posts {
   }
 
   ul.posts span {
-    color: #aaa;
+    color: #483D8B;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
@@ -93,7 +93,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: black;
     text-decoration: none;
   }
 
@@ -102,7 +102,7 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #aaa;
+    color: #483D8B;
     text-decoration: none;
     margin-left: 1em;
   }
