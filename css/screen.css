@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: CornflowerBlue;
 }
 
 a:visited {
@@ -102,7 +102,7 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #483D8B;
+    color: #CornflowerBlue;
     text-decoration: none;
     margin-left: 1em;
   }
