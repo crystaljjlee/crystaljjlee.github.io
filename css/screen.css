@@ -35,15 +35,16 @@ p {
 }
 
 a {
-  color: #00a;
+  color: CornflowerBlue;
 }
 
 a:hover {
   color: CornflowerBlue;
+  text-decoration:underline;
 }
 
 a:visited {
-  color: #a0a;
+  color: DarkBlue;
 }
 
 table {
@@ -102,13 +103,14 @@ ul.posts {
   }
 
   .site .title a.extra {
-    color: #CornflowerBlue;
+    color: CornflowerBlue;
     text-decoration: none;
     margin-left: 1em;
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: CornflowerBlue;
+    text-decoration:underline;
   }
 
   .site .meta {
