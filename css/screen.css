@@ -40,7 +40,6 @@ a {
 
 a:hover {
   color: CornflowerBlue;
-  text-decoration:underline;
 }
 
 a:visited {
@@ -99,18 +98,17 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: black;
+    color: white;
+    background-color: black;
   }
 
   .site .title a.extra {
-    color: CornflowerBlue;
-    text-decoration: none;
+    color: black;
     margin-left: 1em;
   }
 
   .site .title a.extra:hover {
-    color: CornflowerBlue;
-    text-decoration:underline;
+    background-color:yellow;
   }
 
   .site .meta {
