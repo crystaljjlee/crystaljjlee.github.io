@@ -35,17 +35,15 @@ p {
 }
 
 a {
-  color: black;
+  color: #00a;
 }
 
 a:hover {
   color: black;
-  text-decoration: none;
-  text-background:yellow;
 }
 
 a:visited {
-  color: DarkBlue;
+  color: #a0a;
 }
 
 table {
@@ -69,7 +67,7 @@ ul.posts {
   }
 
   ul.posts span {
-    color: black;
+    color: #aaa;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
   }
@@ -95,26 +93,26 @@ ul.posts {
 }
 
   .site .title a {
-    color: black;
+    color: #a00;
     text-decoration: none;
   }
 
   .site .title a:hover {
     color: black;
-    background-color: yellow;
   }
 
   .site .title a.extra {
-    color: black;
+    color: #aaa;
+    text-decoration: none;
     margin-left: 1em;
   }
 
   .site .title a.extra:hover {
-    background-color:yellow;
+    color: black;
   }
 
   .site .meta {
-    color: black;
+    color: #aaa;
   }
 
   .site .footer {
