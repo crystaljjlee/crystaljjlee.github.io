@@ -17,7 +17,8 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font-family: Monaco, "Courier New", monospace;
+  /* font: 13.34px helvetica, arial, clean, sans-serif; */
   *font-size: small;
   text-align: center;
 }
@@ -63,6 +64,7 @@ ul.posts {
 }
 
   ul.posts li {
+    font-family: Monaco, "Courier New", monospace;
     line-height: 1.75em;
   }
 
@@ -131,7 +133,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: black;
       }
 
     .site .footer .rss {
