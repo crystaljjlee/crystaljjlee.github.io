@@ -85,7 +85,6 @@ ul.posts {
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em auto;
-  border-top: 1px dashed #eee;
   line-height: 1.5em;
 }
 
@@ -124,7 +123,6 @@ ul.posts {
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
     color: black;
-    border-top: 1px dashed #eee;
     margin-top: 2em;
     overflow: hidden;
   }
@@ -161,7 +159,6 @@ ul.posts {
   /* standard */
 
   #post pre {
-    border: 1px solid #ddd;
     background-color: #eef;
     padding: 0 .4em;
   }
