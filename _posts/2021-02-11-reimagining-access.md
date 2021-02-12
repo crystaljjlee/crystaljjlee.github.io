@@ -17,7 +17,7 @@ You can view the full slide deck [here](http://web.mit.edu/crystall/www/files/re
 
 **(Slide 4)** Before you tune out completely, I'll say that it's a great example about the inherent tensions at the juncture of design and disability, and I want to use this example as a way to think about resolving them. 
 
-![diagram that shows STS and disability studies together with an arrow towards the text "data visualization"](../img/2021/02/11/reimagine-access/1-zoom-access-ineq.png)
+![diagram that shows STS and disability studies together with an arrow towards the text "data visualization"](/img/1-zoom-access-ineq.png)
 
 I think it's safe to say that we've all heard some version of these arguments as it relates to access: **(Slide 4, animation 1)** **first**, the pandemic has given people the opportunity to attend to professional opportunities that wouldn't otherwise be possible. As an example, it might be a *physically proximate* situation where people might not have been able to physically attend bc of chronic pain or lack of transportation, or it might be a *physically distant* situation that might have been too financially onerous (eg, attending a conference much like this one).
 
@@ -31,7 +31,7 @@ I think it's safe to say that we've all heard some version of these arguments as
 
 **(Slide 7)** **So let's attend to this as a design problem:** how can we think about designing a future that allows us to capitalize on the strides in access *while acknowledging and mitigating* the harms of using this technology? Zoom, as we've seen, is not a panacea and has a range of accessibility problems; there also a  myriad of security, privacy, and moderation issues that abound on this platform. 
 
-![tweet from Liz Jackson that says "The remnants of a Zoom bombing of a disability event" with a black square](../img/2021/02/11/reimagine-access/2-liz-jackson-bomb.png)
+![tweet from Liz Jackson that says "The remnants of a Zoom bombing of a disability event" with a black square](/img/2-liz-jackson-bomb.png)
 
 **(Slide 8)** Just yesterday, a virtual reading with the legendary cyborg Jillian Weise was zoom bombed, and Liz Jackson writes on Twitter about the eventual fallout, where she shows a black screen where the "chat becomes disabled." 
 
@@ -77,7 +77,7 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 ### Woes of 1:1 translation 
 **(Slide 17)** Here, I'll show a failed attempt on my part to create a system of easily generating 3D visualizations. My collaborators and I were interested in seeing if we could generate these on the fly, since educators at the Perkins School for the Blind (with whom we had collaborated) were making each of the visualizations as they needed them in class. 
 
-![a vinyl map of MIT where there are raised etchings for different components of the campus](../img/2021/02/11/reimagine-access/4-mit-tactual.png)
+![a vinyl map of MIT where there are raised etchings for different components of the campus](/img/4-mit-tactual.png)
 
 **(Slide 18)** As an example, we drew on the "Tactual Map of MIT," which was developed as part of a collaboration between Perkins and MIT, and this is a picture of an unrolled vinyl map on a table with raised etchings. 
 
@@ -94,15 +94,15 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 ### Be transparent, minimal, and straightforward 
 **(Slide 22)** So let's talk about being transparent, minimal, and straightforward. 
 
-![page from a handbook that shows sketches of different tools made for embossing tactile graphics: scalpels, pen-like utensils to punch bumps in the paper](../img/2021/02/11/reimagine-access/5-tactile-tools.png)
+![page from a handbook that shows sketches of different tools made for embossing tactile graphics: scalpels, pen-like utensils to punch bumps in the paper](/img/5-tactile-tools.png)
 
 **(Slide 23)** Drawing on best practices from historical braille transcription and tactile graphics, many of the tools used in making tactile visualizations is very much *not* flashy data scrollytelling, but  bespoke, artisanal work. To this end, a great deal of my research is thinking not just about computing and interactivity, but about the limitations of fabrication. How can we work both in preserving and extending best practices about embossing and braille specifications, particularly with minimal tools? 
 
-![a close-up view of the tactual map of MIT, where you can see the individual dots and lines that make up a building](../img/2021/02/11/reimagine-access/6-mit-tactual-detail.png)
+![a close-up view of the tactual map of MIT, where you can see the individual dots and lines that make up a building](/img/6-mit-tactual-detail.png)
 
 **(Slide 24)** How can we reduce visual or tactile clutter and use texture and shapes judiciously? My collaborator, Alan, is thinking a lot about the affordances of NLP and its ability to create clear, concise text summaries, and there have been projects like **(Slide 25)** "Alt Text as Poetry" that teaches people how to implement this in practice. 
 
-![image of a blue book with a spiral binding that says "Alt Text as Poetry"](../img/2021/02/11/reimagine-access/8-alt-text-poetry.png)
+![image of a blue book with a spiral binding that says "Alt Text as Poetry"](/img/8-alt-text-poetry.png)
 
 Image by Bojana Coklyat and Shannon Finnegan 
 
@@ -111,7 +111,7 @@ Image by Bojana Coklyat and Shannon Finnegan
 
 **(Slide 27)** **Data sonification** can be inaccessible for Deaf people. **Haptic interfaces** are largely inaccessible in Plague Season, and can be inaccessible for people with touch sensitivities, or (in cases where braille is present), for those who do not read braille. **Olfactory approaches** are impossible for those with fragrance sensitivity (and frankly, I have found them to be mostly gimmicky and mostly do the kind of 1:1 translation I described earlier). So where does this leave us? I want to show some examples, though, of data sonification that I find compelling, and which can improve the experience of a visualization, particularly for individuals with ADHD to emphasize audibly what they see visually. 
 
-![screenshot of two projects from Brian Foo: "Air Play: Smog Music created with Beijing Air Quality Data," which includes a visualization of multiple dots showing that the air is hazardous; "Two Trains: Sonification of Income Inequality on the NYC Subway," which shows a train line from Brooklyn coming up to New York as a red line](../img/2021/02/11/reimagine-access/8-data-driven-dj.png)
+![screenshot of two projects from Brian Foo: "Air Play: Smog Music created with Beijing Air Quality Data," which includes a visualization of multiple dots showing that the air is hazardous; "Two Trains: Sonification of Income Inequality on the NYC Subway," which shows a train line from Brooklyn coming up to New York as a red line](/img/8-data-driven-dj.png)
 
 **(Slide 28)** For example, "Data Driven DJ" Brian Foo, a sound artist, has created semi-orchestral pieces that sonify Beijing air quality data or income inequality, where each piece manipulates noise to highlight peaks and valleys. 
 
