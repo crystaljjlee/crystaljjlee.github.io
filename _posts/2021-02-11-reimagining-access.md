@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Visualization: Technoableism and New Paradigms for Design
+title: "Beyond Visualization: Technoableism and New Paradigms for Design"
 ---
 
 {{ page.title }}
@@ -103,6 +103,7 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 **(Slide 24)** How can we reduce visual or tactile clutter and use texture and shapes judiciously? My collaborator, Alan, is thinking a lot about the affordances of NLP and its ability to create clear, concise text summaries, and there have been projects like **(Slide 25)** "Alt Text as Poetry" that teaches people how to implement this in practice. 
 
 ![image of a blue book with a spiral binding that says "Alt Text as Poetry"](../img/2021/02/11/reimagine-access/8-alt-text-poetry.png)
+
 Image by Bojana Coklyat and Shannon Finnegan 
 
 ### Competing accomodations
