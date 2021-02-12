@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond Visualization: Technoableism and New Paradigms for Design"
+title: "Beyond Visualization: Technoableism and New Paradigms for Design (talk)"
 ---
 
 {{ page.title }}
