@@ -72,7 +72,8 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 **(Slide 16)** I'll describe three major themes: 
 1. The woes of 1:1 translation 
 2. Be transparent, minimal, and straightforward 
-3. Competing accommodations <br>
+3. Competing accommodations   
+
 
 ## Woes of 1:1 translation 
 **(Slide 17)** Here, I'll show a failed attempt on my part to create a system of easily generating 3D visualizations. My collaborators and I were interested in seeing if we could generate these on the fly, since educators at the Perkins School for the Blind (with whom we had collaborated) were making each of the visualizations as they needed them in class. (You can find that paper [here](http://web.mit.edu/crystall/www/files/Crystal_Lee_CV_access.pdf).)
