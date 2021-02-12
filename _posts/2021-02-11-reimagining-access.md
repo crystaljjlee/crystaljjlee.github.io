@@ -13,7 +13,7 @@ You can view the full slide deck [here](http://web.mit.edu/crystall/www/files/re
 
 **(Slide 2)** By way of background, I'm a researcher in science and technology studies who uses insights from disability studies to make and interrogate data visualizations. 
 
-**(Slide 3)** But before I get to that more concretely, I want to frame my talk with a concept from human-computer interaction theory: "beyond being there," and I'll illustrate it by talking about a technology we're all familiar with: **Zoom.** 
+**(Slide 3)** But before I get to that more concretely, I want to frame my talk with a concept from human-computer interaction theory: "[beyond being there](https://dl.acm.org/doi/10.1145/142750.142769)," and I'll illustrate it by talking about a technology we're all familiar with: **Zoom.** 
 
 **(Slide 4)** Before you tune out completely, I'll say that it's a great example about the inherent tensions at the juncture of design and disability, and I want to use this example as a way to think about resolving them. 
 
@@ -33,7 +33,7 @@ I think it's safe to say that we've all heard some version of these arguments as
 
 ![tweet from Liz Jackson that says "The remnants of a Zoom bombing of a disability event" with a black square](/img/2-liz-jackson-bomb.png){:height="80%" width="80%"}
 
-**(Slide 8)** Just yesterday, a virtual reading with the legendary cyborg Jillian Weise was zoom bombed, and Liz Jackson writes on Twitter about the eventual fallout, where she shows a black screen where the "chat becomes disabled." 
+**(Slide 8)** Just yesterday, a virtual reading with the legendary cyborg Jillian Weise was zoom bombed, and Liz Jackson [writes on Twitter](https://twitter.com/elizejackson/status/1359582485299007491) about the eventual fallout, where she shows a black screen where the "chat becomes disabled." 
 
 **(Slide 9)** So let's come back to "Beyond Being There." If the point is to *imitate* face-to-face interaction, then this design is set up for failure. If people use these technologies (e.g. 3D holograms) but still use prioritize face-to-face interactions to those who are physically proximate to them, then there will always be a problem.
 
@@ -47,7 +47,7 @@ This is not to say that all forms of imitation or emulation are bad, or that we 
 
 ## Over and under-promising in design
 
-**(Slide 11)** I'm reminded here of some wisdom from a friend of mine about how technology can simultaneously *over* and *underpromise* . Simplistically, designing inclusive tech that overpromises can often be a way of re-entrenching techno-ableism. 
+**(Slide 11)** I'm reminded here of some wisdom from a friend of mine, Ben Green, about how technology can simultaneously *over* and *underpromise*. Simplistically, designing inclusive tech that overpromises can often be a way of re-entrenching techno-ableism. 
 
 **(Slide 12) What is technoableism?**
 
@@ -72,10 +72,10 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 **(Slide 16)** I'll describe three major themes: 
 1. The woes of 1:1 translation 
 2. Be transparent, minimal, and straightforward 
-3. Competing accommodations <br />
+3. Competing accommodations <br>
 
 ## Woes of 1:1 translation 
-**(Slide 17)** Here, I'll show a failed attempt on my part to create a system of easily generating 3D visualizations. My collaborators and I were interested in seeing if we could generate these on the fly, since educators at the Perkins School for the Blind (with whom we had collaborated) were making each of the visualizations as they needed them in class. 
+**(Slide 17)** Here, I'll show a failed attempt on my part to create a system of easily generating 3D visualizations. My collaborators and I were interested in seeing if we could generate these on the fly, since educators at the Perkins School for the Blind (with whom we had collaborated) were making each of the visualizations as they needed them in class. (You can find that paper [here](http://web.mit.edu/crystall/www/files/Crystal_Lee_CV_access.pdf).)
 
 ![a vinyl map of MIT where there are raised etchings for different components of the campus](/img/4-mit-tactual.png)
 
@@ -100,21 +100,21 @@ To conclude this first part, I want to argue that reflecting on these dynamics c
 
 ![a close-up view of the tactual map of MIT, where you can see the individual dots and lines that make up a building](/img/6-mit-tactual-detail.png)
 
-**(Slide 24)** How can we reduce visual or tactile clutter and use texture and shapes judiciously? My collaborator, Alan, is thinking a lot about the affordances of NLP and its ability to create clear, concise text summaries, and there have been projects like **(Slide 25)** "Alt Text as Poetry" that teaches people how to implement this in practice. 
+**(Slide 24)** How can we reduce visual or tactile clutter and use texture and shapes judiciously? My collaborator, Alan, is thinking a lot about the affordances of NLP and its ability to create clear, concise text summaries, and there have been projects like **(Slide 25)** "[Alt Text as Poetry](https://alt-text-as-poetry.net/)" that teaches people how to implement this in practice. 
 
 ![image of a blue book with a spiral binding that says "Alt Text as Poetry"](/img/8-alt-text-poetry.png){:height="50%" width="50%"}
 
 Image by Bojana Coklyat and Shannon Finnegan 
 
 ## Competing accomodations
-**(Slide 26)** Of course, there are also competing accommodations -- universal design is impossible and often undesirable. 
+**(Slide 26)** Of course, there are also competing accommodations – universal design is impossible and often undesirable. 
 
 **(Slide 27)** **Data sonification** can be inaccessible for Deaf people. **Haptic interfaces** are largely inaccessible in Plague Season, and can be inaccessible for people with touch sensitivities, or (in cases where braille is present), for those who do not read braille. **Olfactory approaches** are impossible for those with fragrance sensitivity (and frankly, I have found them to be mostly gimmicky and mostly do the kind of 1:1 translation I described earlier). So where does this leave us? I want to show some examples, though, of data sonification that I find compelling, and which can improve the experience of a visualization, particularly for individuals with ADHD to emphasize audibly what they see visually. 
 
 ![screenshot of two projects from Brian Foo: "Air Play: Smog Music created with Beijing Air Quality Data," which includes a visualization of multiple dots showing that the air is hazardous; "Two Trains: Sonification of Income Inequality on the NYC Subway," which shows a train line from Brooklyn coming up to New York as a red line](/img/9-data-driven-dj.png)
 
-**(Slide 28)** For example, "Data Driven DJ" Brian Foo, a sound artist, has created semi-orchestral pieces that sonify Beijing air quality data or income inequality, where each piece manipulates noise to highlight peaks and valleys. 
+**(Slide 28)** For example, "[Data Driven DJ](https://datadrivendj.com/)" Brian Foo, a sound artist, has created semi-orchestral pieces that sonify Beijing air quality data or income inequality, where each piece manipulates noise to highlight peaks and valleys. 
 
-**(Slide 29)** You can see a similar dynamic with Carni Klir's sonification of the *NYT* COVID death chart, where he punctuates time and adds noise as the deaths pile up. 
+**(Slide 29)** You can see a similar dynamic with Carni Klir's [sonification of the *NYT* COVID death chart](https://twitter.com/CarniDC/status/1356267828874256387), where he punctuates time and adds noise as the deaths pile up. 
 
 **(Slide 30)** I will acknowledge that a great deal of what I've said is ultimately unsatisfying, and that what I've provided is mostly a template for speculative futures that all hinge upon the phrase "it depends." However, what I hope you can take away from this is a framework and a call to action: to think *beyond* being there, and to join me in re-imagining both the technologies we design and the social worlds that we inhabit together. 
